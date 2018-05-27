@@ -7,7 +7,7 @@ ex.
 > java -cp ToyRobot-0.0.1-SNAPSHOT.jar com.runner.Main C:\Users\amitk\eclipse-workspace\ToyRobot\testData\set-1.txt  
 
 
-## Building thourgh Maven
+## Building through Maven
 > `mvn clean install` under ToyRobot/ dir
 
 ## Test data
