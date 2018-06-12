@@ -17,7 +17,7 @@
 	          <manifest>
 	          	<addClasspath>true</addClasspath>
             	<classpathPrefix>lib/</classpathPrefix>
-	            <mainClass>com.ping.app.Executor</mainClass>
+	            <mainClass>com.runner.Main</mainClass>
 	          </manifest>
           </archive>
         </configuration>
